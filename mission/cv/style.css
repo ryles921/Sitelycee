@@ -64,6 +64,8 @@ header {
     flex-direction: column;
     justify-content: center;
     text-align: left;
+
+    width: 80%;
 }
 
 h1, h2 {
